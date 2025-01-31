@@ -1,0 +1,66 @@
+[
+  {
+    "resId": "1",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/brg_frittenwerk/bf1d2285c962198210ede8ee4f5bcaa3",
+    "resName": "Frittenwerk",
+    "price": "7.99 €",
+    "avgRating": "4.2",
+    "deliveryTime": "35 mins"
+  },
+  {
+    "resId": "2",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/brg_l_27osteria/715183f08314c829f77d425d1692011b",
+    "resName": "Pizza Italiano",
+    "price": "15 €",
+    "avgRating": "5",
+    "deliveryTime": "45 mins"
+  },
+  {
+    "resId": "3",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/4344828/687e4fabbbe8f4c67db5af992ad9329d",
+    "resName": "Swadishta",
+    "price": "18 €",
+    "avgRating": "4.5",
+    "deliveryTime": "40 mins"
+  },
+  {
+    "resId": "4",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/4037778/7ec2141dff0d86a62b2c29130ce7f9da",
+    "resName": "Ngoc Chau",
+    "price": "11 €",
+    "avgRating": "",
+    "deliveryTime": " mins"
+  },
+  {
+    "resId": "5",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/9913773/f69423fee925a404b1313031d4ea378e",
+    "resName": "Döner Point",
+    "price": "9.99 €",
+    "avgRating": "4.8",
+    "deliveryTime": " mins"
+  },
+  {
+    "resId": "6",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/10246843/5143413b9997660c6e421177c263333a",
+    "resName": "Pancho-Villa Cantina",
+    "price": "15 €",
+    "avgRating": "4.5",
+    "deliveryTime": "25 mins"
+  },
+  {
+    "resId": "7",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/3971370/f5131d07a4e19e086ff3bf0ff4683fac",
+    "resName": "Hofbräu Wirtshaus",
+    "price": "€",
+    "avgRating": "3.7",
+    "deliveryTime": "30 mins"
+  },
+  {
+    "resId": "8",
+    "resImg": "https://just-eat-prod-eu-res.cloudinary.com/image/upload/c_fill,q_auto,ar_4:3,c_thumb,w_120/f_auto/q_auto/dpr_2.0/v1/de/dishes/9061398/39128d6ce98d1321a62a3c07fb9d0d67",
+    "resName": "Taverna Mastiha",
+    "price": "€",
+    "avgRating": "3.8",
+    "deliveryTime": "35 mins"
+  }
+]
